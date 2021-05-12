@@ -1,2 +1,2 @@
 # LuaWithCoregames
-Creating script for a game in Core
+Basics of Core and Creating script for a game
